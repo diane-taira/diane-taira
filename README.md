@@ -25,4 +25,5 @@
  
 ![StevenUniversoGIF](https://github.com/user-attachments/assets/8ed10338-99d4-44aa-8187-b33b20cc4e17)
 
-![Snake animation](https://github.com/diane-taira/diane-taira/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/diane-taira/diane-taira/blob/output/github-contribution-grid-snake.svg)
+
